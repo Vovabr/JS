@@ -1,4 +1,5 @@
 console.log('%cЗадание №2','text-decoration: underline;text-transform: uppercase; color: blue;');
+
 let a1 = 5 % 3;
 console.log(a1);
 

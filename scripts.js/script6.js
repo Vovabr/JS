@@ -1,6 +1,8 @@
 console.log('%cЗадание №7','text-decoration: underline;text-transform: uppercase; color: blue;');
-let S = 2;
-    p = 10;
-    years = 5;
-    Pereplata = S*p/100*5;
+
+let s = 2,
+    p = 10,
+    years = 5,
+    Pereplata = s*p/100*years;
+    
 console.log(Pereplata + 'млн.руб');
